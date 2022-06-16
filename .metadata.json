@@ -1,0 +1,22 @@
+[
+  {
+    "package": "bizdays",
+    "oncran": true
+  },
+  {
+    "package": "fixedincome",
+    "oncran": true
+  },
+  {
+    "package": "rb3",
+    "oncran": true
+  },
+  {
+    "package": "rbcb",
+    "oncran": true
+  },
+  {
+    "package": "sqliter",
+    "oncran": true
+  }
+]
