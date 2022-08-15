@@ -4,10 +4,6 @@
     "oncran": true
   },
   {
-    "package": "fixedincome",
-    "oncran": true
-  },
-  {
     "package": "rb3",
     "oncran": true
   },

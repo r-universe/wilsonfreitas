@@ -8,11 +8,6 @@
 	url = https://github.com/wilsonfreitas/r-bizdays
 	shallow = true
 	registered = true
-[submodule "fixedincome"]
-	path = fixedincome
-	url = https://github.com/wilsonfreitas/r-fixedincome
-	shallow = true
-	registered = true
 [submodule "rb3"]
 	path = rb3
 	url = https://github.com/wilsonfreitas/rb3
