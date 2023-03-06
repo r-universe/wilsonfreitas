@@ -13,11 +13,6 @@
 	url = https://github.com/wilsonfreitas/r-fixedincome
 	shallow = true
 	registered = true
-[submodule "rb3"]
-	path = rb3
-	url = https://github.com/wilsonfreitas/rb3
-	shallow = true
-	registered = true
 [submodule "rbcb"]
 	path = rbcb
 	url = https://github.com/wilsonfreitas/rbcb

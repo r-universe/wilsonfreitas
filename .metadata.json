@@ -8,10 +8,6 @@
     "oncran": true
   },
   {
-    "package": "rb3",
-    "oncran": true
-  },
-  {
     "package": "rbcb",
     "oncran": true
   },
