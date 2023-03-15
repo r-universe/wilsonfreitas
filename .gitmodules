@@ -3,11 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "sqliter"]
-	path = sqliter
-	url = https://github.com/wilsonfreitas/sqliter
-	shallow = true
-	registered = true
 [submodule "bizdays"]
 	path = bizdays
 	url = https://github.com/wilsonfreitas/r-bizdays
@@ -21,5 +16,10 @@
 [submodule "rbcb"]
 	path = rbcb
 	url = https://github.com/wilsonfreitas/rbcb
+	shallow = true
+	registered = true
+[submodule "sqliter"]
+	path = sqliter
+	url = https://github.com/wilsonfreitas/sqliter
 	shallow = true
 	registered = true

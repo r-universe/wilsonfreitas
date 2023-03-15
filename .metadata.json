@@ -1,9 +1,5 @@
 [
   {
-    "package": "sqliter",
-    "oncran": true
-  },
-  {
     "package": "bizdays",
     "oncran": true
   },
@@ -13,6 +9,10 @@
   },
   {
     "package": "rbcb",
+    "oncran": true
+  },
+  {
+    "package": "sqliter",
     "oncran": true
   }
 ]
