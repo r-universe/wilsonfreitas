@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "bizdays"]
 	path = bizdays
 	url = https://github.com/wilsonfreitas/r-bizdays
-	shallow = true
-	registered = true
 [submodule "numbersBR"]
 	path = numbersBR
 	url = https://github.com/wilsonfreitas/numbersbr
-	shallow = true
-	registered = true
 [submodule "rbcb"]
 	path = rbcb
 	url = https://github.com/wilsonfreitas/rbcb
-	shallow = true
-	registered = true
 [submodule "sqliter"]
 	path = sqliter
 	url = https://github.com/wilsonfreitas/sqliter
-	shallow = true
-	registered = true
